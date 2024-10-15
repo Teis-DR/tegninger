@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="4">
   <diagram id="N1WEi6f7lH1oImQVC8iE" name="Server rack">
-    <mxGraphModel dx="1496" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1561" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="L7ICa1lAacu21GfKvUB3-0" />
         <mxCell id="L7ICa1lAacu21GfKvUB3-1" parent="L7ICa1lAacu21GfKvUB3-0" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="L7ICa1lAacu21GfKvUB3-17" value="UPS" style="shape=mxgraph.rack.apc.apc_smart_ups_5000_va_5u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="L7ICa1lAacu21GfKvUB3-12" vertex="1">
           <mxGeometry x="33" y="261" width="168" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5BONpH2NEI7YN3UaUeAO-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="L7ICa1lAacu21GfKvUB3-1">
+          <mxGeometry x="40" y="20" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -500,6 +503,14 @@
         <mxCell id="10ed09ecd0ef054a-134" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;strokeWidth=1;shape=mxgraph.cabinets.cb_1p;rounded=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="267" y="625" width="9" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ux3VZNouikNLW14kg9eC" name="Logisk netværk">
+    <mxGraphModel dx="1561" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
