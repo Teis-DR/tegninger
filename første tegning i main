@@ -524,7 +524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tkctSg7DEQBxIlXCAKDS" name="Sites">
-    <mxGraphModel dx="5278" dy="3227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7564" dy="4576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -663,7 +663,7 @@
           <mxGeometry x="-322" y="-494" width="226" height="117" as="geometry" />
         </mxCell>
         <mxCell id="-NC7CV4BAMMUfFMnrBmF-31" value="&lt;font face=&quot;Verdana&quot;&gt;Wifi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-NC7CV4BAMMUfFMnrBmF-1">
-          <mxGeometry x="-86" y="-494" width="226" height="117" as="geometry" />
+          <mxGeometry x="142" y="-370" width="116" height="87" as="geometry" />
         </mxCell>
         <mxCell id="qSudStWy7hYtcdzwfSr7-4" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;@ Router, VPN &amp;amp; Firewalls&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-NC7CV4BAMMUfFMnrBmF-1">
           <mxGeometry x="-720" y="-130" width="86" height="155" as="geometry" />
