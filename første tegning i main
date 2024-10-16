@@ -524,7 +524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tkctSg7DEQBxIlXCAKDS" name="Sites">
-    <mxGraphModel dx="7564" dy="5776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="14110" dy="9640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1110,7 +1110,7 @@
         <mxCell id="qSudStWy7hYtcdzwfSr7-148" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;Landing zone&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="qSudStWy7hYtcdzwfSr7-145">
           <mxGeometry x="256" y="-2158" width="177" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="qSudStWy7hYtcdzwfSr7-160" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="qSudStWy7hYtcdzwfSr7-145">
+        <mxCell id="qSudStWy7hYtcdzwfSr7-160" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#FFFFFF;" vertex="1" parent="qSudStWy7hYtcdzwfSr7-145">
           <mxGeometry x="-1172" y="-1929" width="2810" height="228" as="geometry" />
         </mxCell>
         <mxCell id="qSudStWy7hYtcdzwfSr7-161" value="&lt;span style=&quot;font-family: Verdana; font-size: 40px;&quot;&gt;DIX&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="qSudStWy7hYtcdzwfSr7-145">
