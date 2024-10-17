@@ -11,7 +11,7 @@
           <mxGeometry x="307" y="148" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="73N0LT-Jw0ejLf9RvANC-21" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall2;fillColor=#FAFAFA;strokeColor=#666666;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="505" y="148" width="64" height="50" as="geometry" />
+          <mxGeometry x="504" y="148" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="73N0LT-Jw0ejLf9RvANC-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=block;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;startArrow=block;startFill=0;endFill=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="140" relative="1" as="geometry">
