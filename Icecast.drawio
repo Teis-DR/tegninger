@@ -1,56 +1,103 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="91Ch4HtAB-noTLvR4pms">
-    <mxGraphModel dx="2022" dy="1291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2708" dy="1448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-397" y="-115" width="815" height="615" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="-424" y="-136" width="844" height="637" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-1" value="&lt;font face=&quot;Verdana&quot;&gt;Encoder01&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-359" y="101" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-19" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=load_balancer;fillColor=#FAFAFA;strokeColor=#666666;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="307" y="148" width="64" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-2" value="&lt;font face=&quot;Verdana&quot;&gt;Encoder02&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="-357" y="163" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-21" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall2;fillColor=#FAFAFA;strokeColor=#666666;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="505" y="148" width="64" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-4" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd22&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="121" y="-83" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=block;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;startArrow=block;startFill=0;endFill=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="369" y="172.5" as="sourcePoint" />
+            <mxPoint x="509" y="172.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-5" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd23&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="121" y="-38" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;startSize=14;endArrow=block;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;startArrow=block;startFill=0;endFill=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="178" y="171" as="sourcePoint" />
+            <mxPoint x="278" y="171" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-6" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd30&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="121" y="11" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-33" value="Komponenter" parent="0" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-41" value="&lt;font face=&quot;Verdana&quot;&gt;Encoder01&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="-360" y="99" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-7" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd31&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="121" y="56" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-42" value="&lt;font face=&quot;Verdana&quot;&gt;Encoder02&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="-360" y="238" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-8" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd32&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="124" y="101" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-43" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd22&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="33" y="-93" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-9" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd33&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="124" y="146" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-44" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd23&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="33" y="-48" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-10" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd34&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="124" y="195" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-45" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd30&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="33" y="1" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-11" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd35&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="124" y="240" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-46" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd31&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="33" y="46" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-12" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd36&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="127" y="285" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-47" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd32&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="36" y="91" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-13" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd37&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="127" y="330" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-48" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd33&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="36" y="136" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-14" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd38&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="127" y="379" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-49" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd34&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="36" y="185" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-15" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd39&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
-          <mxGeometry x="127" y="424" width="96" height="20" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-50" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd35&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="36" y="230" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="73N0LT-Jw0ejLf9RvANC-19" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=load_balancer;fillColor=#FAFAFA;strokeColor=#005073;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="414" y="116" width="64" height="50" as="geometry" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-51" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd36&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="39" y="275" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-52" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd37&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="39" y="320" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-53" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd38&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="39" y="369" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-54" value="&lt;font face=&quot;Verdana&quot;&gt;Licysd39&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image=img/lib/cumulus/server_bare_metal.svg;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-33">
+          <mxGeometry x="39" y="414" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-34" value="MADI" parent="0" />
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;startSize=14;endArrow=blockThin;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;endFill=1;strokeColor=#66B2FF;" edge="1" parent="73N0LT-Jw0ejLf9RvANC-34" source="73N0LT-Jw0ejLf9RvANC-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-359" y="111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-36" value="&lt;font face=&quot;Verdana&quot;&gt;MADI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-34">
+          <mxGeometry x="-540" y="71" width="55" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;startSize=14;endArrow=blockThin;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;endFill=1;strokeColor=#66B2FF;" edge="1" parent="73N0LT-Jw0ejLf9RvANC-34" source="73N0LT-Jw0ejLf9RvANC-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-359" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-38" value="&lt;font face=&quot;Verdana&quot;&gt;MADI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="73N0LT-Jw0ejLf9RvANC-34">
+          <mxGeometry x="-540" y="210" width="55" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-39" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=12;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;endWidth=27;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="73N0LT-Jw0ejLf9RvANC-34">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-281" y="183" as="sourcePoint" />
+            <mxPoint x="-141" y="183" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73N0LT-Jw0ejLf9RvANC-40" value="&lt;font face=&quot;Verdana&quot;&gt;MP3 /ICY&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" connectable="0" parent="73N0LT-Jw0ejLf9RvANC-39">
+          <mxGeometry x="-0.2143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
